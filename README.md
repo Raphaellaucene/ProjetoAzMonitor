@@ -1,10 +1,6 @@
 # Projeto Az Monitor
 Descrever como configurar monitoramento de VMs no Microsoft Azure, com foco em eventos críticos como a exclusão de máquinas virtuais
 
-# Monitoramento de Máquinas Virtuais no Azure
-
-Este repositório documenta o processo de configuração de monitoramento de VMs no Microsoft Azure, com foco em eventos críticos como a exclusão de máquinas virtuais.
-
 ## 📌 Objetivo
 
 Demonstrar como manter visibilidade e controle sobre recursos no Azure, utilizando ferramentas como Azure Monitor, Log Analytics e Alertas.
